@@ -1,7 +1,8 @@
 ---
-title: "Typography"
+title: "Off-Grid Power"
 date: 2020-06-21T08:04
-thumb: "typography.png"
+thumb: "power.png"
+description:
 tags: 
     - popular
     - sample

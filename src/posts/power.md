@@ -12,15 +12,13 @@ tags:
 
 Making a 12V solar charger with LM317 video [here](https://www.youtube.com/watch?v=xvpqFcUm-lE)
 
-![](/img/regulator.png)
-
 Lindsay video [here](https://www.youtube.com/watch?v=QY0WfFA3ju4)
 
 design [here](http://imajeenyus.com/electronics/20160530_adjustable_current_source/index.shtml)
 
 Auto cutoff [here](https://www.youtube.com/watch?v=MZ_6Wc563XE)
 
-![](/img/auto_cut.png)
+![](/assets/img/auto_cut.png)
 
 Cutoff circuit diagram [here](https://www.rcpano.net/2019/10/09/12v-lead-acid-battery-charging-circuit-with-auto-cut-off-diy-pb-battery-charger/#google_vignette)
 
@@ -33,7 +31,7 @@ LM317 datasheet [here](https://www.ti.com/lit/an/snva581/snva581.pdf?ts=17509760
 
 [lm317 battery charging tutorial](https://www.eleccircuit.com/the-most-lead-acid-battery-charger-circuit-by-lm317/)
 
-![](/img/lm317_design.png)
+![](/assets/img/lm317_design.png)
 
 Adjustible DC-DC booster circuit [here](https://www.rcpano.net/2022/10/22/adjustable-dc-to-dc-booster-circuit-5-15v-to-max-40v/#google_vignette)
 
@@ -51,7 +49,9 @@ app note on lm317 [here](https://www.ti.com/lit/ds/symlink/lm317.pdf)
 
 circuit digest article [here](https://circuitdigest.com/microcontroller-projects/12v-battery-charger-circuit-diagram-using-lm317)
 
+Focus on this one:
 
+![](/assets/img/dual.png)
 
 
 

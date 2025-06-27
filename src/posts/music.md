@@ -1,5 +1,5 @@
 ---
-title: "DIY musical instruments"
+title: "DIY Musical Instruments"
 date: 2020-06-21T08:04
 thumb: "drum.png"
 description:

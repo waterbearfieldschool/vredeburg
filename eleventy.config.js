@@ -17,6 +17,14 @@ module.exports = (config) => {
   config.addCollection('pagedPosts', require('./lib/collections/pagedPosts'));
   config.addCollection('pagedPostsByTag', require('./lib/collections/pagedPostsByTag'));
 
+  //my addition
+  /*
+  config.setChokidarConfig({
+		usePolling: true,
+		interval: 500,
+	});
+	*/
+	
   return {
     dir: {
       input: 'src',

@@ -3,7 +3,7 @@ module.exports = (config) => {
   config.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
 
   config.addWatchTarget("src/assets/js/");
-
+  //config.addWatchTarget("src/posts/");
   config.addLayoutAlias('default', 'layouts/default.njk');
   config.addLayoutAlias('post', 'layouts/post.njk');
 
